@@ -1,0 +1,9 @@
+pandas
+nunpy
+matplotlib
+nltk
+emoji
+wordcloud
+PIL
+transformers
+tensorflow
