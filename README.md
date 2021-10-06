@@ -9,7 +9,7 @@ git clone https://github.com/AdamHorvath12/NLP_Analysis_of_Tweets.git
 Create a virtual environment (or in your base environment) with Anaconda or any virtual environment manager (see Anaconda example below): 
 
 ```bash
-conda create -n nlp_tweets_project python=3.7
+conda create -n nlp_tweets_project python=3.8
 conda activate nlp_tweets_project
 pip install -r requirements.txt
 ```
